@@ -1,4 +1,4 @@
-Jogo da velha feito em python com as seguintes regras:
+##Jogo da velha feito em python com as seguintes regras:
 
 - Jogo inicia mostrando o tabuleiro vazio
 - Logo depois pergunta ao usuário em qual linha e coluna quer jogar, começando pelo "X"
